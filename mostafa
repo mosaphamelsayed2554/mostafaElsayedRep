@@ -1,1 +1,5 @@
-Share 
+def sum_list(array):
+    return sum(array)
+
+array = [1, 2, 3]
+print(sum_list(array))
